@@ -1,6 +1,6 @@
 ### Olá Eu sou o Rafael Nascimento 
 
-- 🌱 Estudando CSS, JavaScript e Inglês
+- 🌱 Estudando C# com foco no .NET
 
 <div align="center">
   <a href="https://github.com/RafaDev01">
