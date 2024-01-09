@@ -1,6 +1,6 @@
 ### Olá Eu sou o Rafael Nascimento 
 
-- 🌱 Estudando C# com foco no .NET
+- 🌱 Estudando Front End
 
 <div align="center">
   <a href="https://github.com/RafaDev01">
