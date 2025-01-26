@@ -6,7 +6,7 @@ Minha maior especialidade está no ecossistema JavaScript, onde tenho experiênc
     Frontend: React, Styled Components, manipulação de DOM e otimização de interfaces.
     Backend: Node.js com Express.js, integração de APIs REST e boas práticas de arquitetura.
     Mobile: React Native para desenvolvimento de aplicativos.
-    Banco de Dados: MySQL e SQLite, com conhecimento em modelagem e otimização de consultas.
+    Banco de Dados: MySQL com conhecimento em modelagem e otimização de consultas.
     Ferramentas e Metodologias: Git, Postman, Linux, Scrum e POO.
 
 Além de JavaScript, possuo experiência em outras linguagens como C# .NET, Java e PHP, o que complementa minha formação e me dá versatilidade para trabalhar em diferentes stacks e projetos.
