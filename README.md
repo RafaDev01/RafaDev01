@@ -57,7 +57,7 @@ Estou sempre me aprimorando por meio de **cursos e projetos pessoais**, buscando
 
 ## 🌐 Onde me encontrar  
 
-📫 [LinkedIn]()  
+📫 [LinkedIn](https://www.linkedin.com/in/rafael-do-nascimento-santos-554178218/)  
 💼 <a href="https://www.rafaeldev01.com.br" target="_blank">Visite meu Portfólio</a></br>
 ✉️ [E-mail](mailto:rafael.nascimento.santos1@outlook.com)
 
