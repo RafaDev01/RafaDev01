@@ -1,72 +1,65 @@
-👋 Olá! Eu sou o Rafael Nascimento
+# 👋 Olá, eu sou o Rafael Nascimento  
 
-Sou Desenvolvedor Front-End apaixonado por tecnologia e aprendizado contínuo.
-🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi
-💻 Formação técnica em Desenvolvimento de Sistemas pela ETEC (Centro Paula Souza)
+Sou **Desenvolvedor Front-End** apaixonado por tecnologia e aprendizado contínuo.  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela *Universidade Anhembi Morumbi*  
+💻 Formação técnica em **Desenvolvimento de Sistemas** pela *ETEC - Centro Paula Souza*  
 
-Tenho como foco construir soluções que gerem impacto e valor real.
+Tenho como foco construir **soluções que gerem impacto e valor real**.
 
-🚀 Tecnologias e Especialidades
-💡 Frontend
+---
 
-JavaScript | TypeScript
+## 🚀 Tecnologias e Especialidades  
 
-React | Next.js
+### 🖥️ Frontend  
+- JavaScript • TypeScript  
+- React • Next.js  
+- Styled Components • Tailwind CSS  
+- Manipulação de DOM e otimização de interfaces  
 
-Styled Components | Tailwind CSS
+### ⚙️ Backend  
+- Node.js • Express.js  
+- Integração de APIs REST  
+- Arquitetura MVC e boas práticas de desenvolvimento  
 
-Manipulação de DOM e otimização de interfaces
+### 🗄️ Banco de Dados  
+- MySQL (modelagem e otimização de consultas)  
 
-⚙️ Backend
+### 🧰 Ferramentas e Metodologias  
+- Git • Postman • Linux  
+- Scrum • POO  
 
-Node.js | Express.js
+---
 
-Integração de APIs REST
+## 💼 Experiência Profissional  
 
-Arquitetura MVC e boas práticas de desenvolvimento
+Atualmente atuo como **Auxiliar de Suporte Técnico**, realizando:  
+- Configuração e integração de dispositivos (Raspberry Pi, redes e impressoras)  
+- Implantação e manutenção de sistemas Android  
+- Testes de software, troubleshooting e suporte técnico  
+- Treinamentos para usuários finais  
 
-🗄️ Banco de Dados
+Também já atuei como **líder de equipe**, desenvolvendo habilidades de **organização, comunicação e liderança**, fundamentais para o trabalho em equipe.
 
-MySQL (modelagem e otimização de consultas)
+---
 
-🧰 Ferramentas e Metodologias
+## 🎯 Objetivo  
 
-Git | Postman | Linux
+Meu foco é evoluir como **Desenvolvedor Front-End**, contribuindo para **projetos desafiadores** e colaborando com **times de alto desempenho**.  
+Tenho facilidade em **identificar e corrigir erros**, propor **soluções criativas** e aprender **novas tecnologias rapidamente**.
 
-Scrum | Programação Orientada a Objetos (POO)
+---
 
-🧑‍💻 Outras Experiências
+## 📚 Em constante evolução  
 
-Também possuo experiência em C#, o que amplia minha versatilidade e me permite atuar em diferentes stacks e contextos de projeto.
+Estou sempre me aprimorando por meio de **cursos e projetos pessoais**, buscando entregar soluções **robustas, escaláveis e com excelente experiência de uso**.
 
-Atualmente trabalho como Auxiliar de Suporte Técnico, realizando:
+---
 
-Configuração e integração de dispositivos (Raspberry Pi, redes e impressoras)
+## 🌐 Onde me encontrar  
 
-Implantação e manutenção de sistemas Android
-
-Testes de software, troubleshooting e suporte técnico
-
-Treinamentos para usuários finais
-
-Já atuei como líder de equipe, desenvolvendo habilidades de organização, comunicação e liderança, essenciais para o trabalho colaborativo.
-
-🎯 Objetivo
-
-Meu foco é crescer como Desenvolvedor Front-End, contribuindo para projetos desafiadores e colaborando com times de alto desempenho.
-Sou dedicado a identificar e corrigir erros, propor soluções criativas e aprender novas tecnologias rapidamente.
-
-📚 Em constante evolução
-
-Estou sempre me aprimorando por meio de cursos e projetos pessoais, buscando entregar soluções robustas, escaláveis e com excelente experiência de uso.
-
-🌐 Onde me encontrar
-
-📫 LinkedIn
-
-💼 Portfólio
-
-📧 Email
+📫 [LinkedIn](https://linkedin.com/in/rafaelnascimento)  
+💼 [Portfólio](https://seu-portfolio.com)  
+✉️ [E-mail](mailto:seuemail@exemplo.com)
 
 <div align="center">
   <a href="https://github.com/RafaDev01">
