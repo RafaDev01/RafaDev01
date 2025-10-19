@@ -53,19 +53,6 @@ Tenho facilidade em **identificar e corrigir erros**, propor **soluções criati
 
 Estou sempre me aprimorando por meio de **cursos e projetos pessoais**, buscando entregar soluções **robustas, escaláveis e com excelente experiência de uso**.
 
----
-
-## 🌐 Onde me encontrar  
-
-📫 [LinkedIn](https://www.linkedin.com/in/rafael-do-nascimento-santos-554178218/)  
-💼 <a href="https://www.rafaeldev01.com.br" target="_blank">Visite meu Portfólio</a></br>
-✉️ [E-mail](mailto:rafael.nascimento.santos1@outlook.com)
-
-<div>
-  <a href="https://github.com/RafaDev01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDev01&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
